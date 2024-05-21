@@ -1,3 +1,7 @@
+---
+title: "Unilink Privacy Policy"
+---
+
 UniLink Privacy Policy
 Last Updated: 1/08/2024
 Welcome to UniLink! UniLink respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our platform.
